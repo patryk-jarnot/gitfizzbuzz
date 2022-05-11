@@ -1,3 +1,4 @@
+#include "fizzbuzz.hpp"
 #include <iostream>
 
 using namespace std;
